@@ -24,5 +24,5 @@
 * Deep Learning
 
 ## Results of the analysis:
-![Results](results.png)
+![Results](Results.png)
  
